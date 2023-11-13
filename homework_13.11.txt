@@ -1,0 +1,24 @@
+0 touch /.testing
+   1 ls -al
+   2 touch .testing
+   3  ls -al
+   4 cp .testing /usr/bin/
+   5 tree Usr/bin/
+   6 tree usr/bin/
+   7 cd
+   8 cp .testing /usr/bin/
+   9 tree /usr/bin
+  10 ls -la
+  11 ls -al /usr/bin/
+  12 mv /opt/bin
+  13 mv /opt/bin /rott/my_user
+  14 mv /opt/bin /root/my_user
+  15 mv /opt/temu /root/my_user
+  16 mt -r /opt/
+  17 mt -r /opt
+  18 mr -r /opt
+  19 rm -r /opt
+  20 ls -s
+  21 history > history_12.txt
+  22 export history > history_12.txt
+  23 history
